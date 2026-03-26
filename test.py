@@ -10,6 +10,6 @@ T=int(input())
 for i in range(T):
     x=int(input())
     if x>=2000:
-     print("yes")
+     print("Yes")
     else:
-     print("no")
+     print("No")
